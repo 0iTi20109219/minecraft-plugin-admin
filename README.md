@@ -1,4 +1,4 @@
-package zero.iti.adminguiplugin;
+package パッケージ
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
