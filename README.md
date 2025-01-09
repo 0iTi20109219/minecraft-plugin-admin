@@ -1,1 +1,1 @@
-# minecraft-plugin-admin
+# minecraft-plugin-admingui
